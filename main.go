@@ -8,6 +8,6 @@ import (
 
 func main() {
 
-	fmt.Println(solutions.IsPalindrome(121))
+	fmt.Println(solutions.RomanToInt("IIII"))
 
 }
