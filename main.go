@@ -8,6 +8,6 @@ import (
 
 func main() {
 
-	fmt.Println(solutions.RomanToInt("IIII"))
+	fmt.Println(solutions.LongestCommonPrefix([]string{"flower", "flow", "flight"}))
 
 }
