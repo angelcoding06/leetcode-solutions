@@ -8,6 +8,6 @@ import (
 
 func main() {
 
-	fmt.Println(solutions.LongestCommonPrefix([]string{"flower", "flow", "flight"}))
+	fmt.Println(solutions.IsValid("(((((]]]])))))"))
 
 }
